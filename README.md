@@ -29,6 +29,15 @@ A powerful and beautiful movie discovery web app built using the [TMDB API](http
 
 ---
 
+## 📸 Screenshot
+
+Here’s a preview of Movie Explorer in action:
+
+![Movie Explorer Preview](screenshots/preview.png)
+
+---
+
+
 ## 🙌 Acknowledgements
 
 - [TMDB API](https://www.themoviedb.org/) — for movie data, posters, and cast info  
