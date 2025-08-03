@@ -29,5 +29,23 @@ A powerful and beautiful movie discovery web app built using the [TMDB API](http
 
 ---
 
+## 🙌 Acknowledgements
+
+- [TMDB API](https://www.themoviedb.org/) — for movie data, posters, and cast info  
+- [YouTube](https://www.youtube.com/) — for trailer video links  
+- [GitHub Pages](https://pages.github.com/) — for free hosting and deployment
+
+
+## 🚀 Getting Started
+
+To run locally:
+
+  ```bash
+git clone https://github.com/rajdeepsingh2/movie-explorer.git
+cd movie-explorer
+open index.html
+---
+
+
 
 
