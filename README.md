@@ -33,7 +33,7 @@ A powerful and beautiful movie discovery web app built using the [TMDB API](http
 
 Here’s a preview of Movie Explorer in action:
 
-![Movie Explorer Preview](screenshots/preview.png)
+![Movie Explorer Preview](preview.png)
 
 ---
 
